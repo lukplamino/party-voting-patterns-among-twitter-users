@@ -2,7 +2,8 @@
 
 # Framework for Analyzing  Party Voting Patterns among Twitter Users Based On Sentiment Prediction Results Using BERT Architecture
 **Kantima Techaphonprasit**
+
 Master’s Student, Department of Data Analytics and Data Science, Faculty of Applied Statistic
-[Individual Study]
+[Individual Study | 2/2022]
 
 
