@@ -9,7 +9,11 @@ Master’s Student, Department of Data Analytics and Data Science, Faculty of Ap
 
 <img src="https://github.com/lukplamino/party-voting-patterns-among-twitter-users/blob/main/images/Data_process.png" style="width:800px;"/>
 
+<img src="https://github.com/lukplamino/party-voting-patterns-among-twitter-users/blob/main/images/Compare_Models.png" style="width:800px;"/>
+
 <img src="https://github.com/lukplamino/party-voting-patterns-among-twitter-users/blob/main/images/Framework.png" style="width:800px;"/>
+
+<img src="https://github.com/lukplamino/party-voting-patterns-among-twitter-users/blob/main/images/wordcloud.png" style="width:800px;"/>
 
 <img src="https://github.com/lukplamino/party-voting-patterns-among-twitter-users/blob/main/images/MLR.png" style="width:800px;"/>
 
