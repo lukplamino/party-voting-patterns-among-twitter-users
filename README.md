@@ -6,8 +6,11 @@
 Master’s Student, Department of Data Analytics and Data Science, Faculty of Applied Statistic
 [Individual Study | 2/2022]
  
-# Data Process
 
 <img src="https://github.com/lukplamino/party-voting-patterns-among-twitter-users/blob/main/images/Data_process.png" style="width:800px;"/>
 
+<img src="https://github.com/lukplamino/party-voting-patterns-among-twitter-users/blob/main/images/Framework.png" style="width:800px;"/>
 
+<img src="https://github.com/lukplamino/party-voting-patterns-among-twitter-users/blob/main/images/MLR.png" style="width:800px;"/>
+
+<img src="https://github.com/lukplamino/party-voting-patterns-among-twitter-users/blob/main/images/summary.png" style="width:800px;"/>
